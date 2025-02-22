@@ -1,5 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQHqgKSX5J2Ynw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719844022015?e=1745452800&v=beta&t=8S-UQhjQXDS6pEjddWYq1vs07MbzeUEz9QmtVydLSwA)
 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+Rishi+Varshney;AI-ML+Researcher;Software+Developer;Winner @Bharat Shiksha Expo 2024 Hackathon;@rishi.varshney100"></p>
 
