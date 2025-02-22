@@ -50,6 +50,21 @@ const Rishi_Varshney = {
 - 📖 **Publication:** Advanced Customer Query Analysis Using Machine Learning  
 
 ---
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+<br>
+
+<p align="left"> 
+  <a href="https://leetcode.com/u/Rishi_varshney/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/@rishi.varshney100" target="_blank"> <img alt="gfg" width="125" src="https://img.shields.io/badge/GeeksforGeeks-%232C3454.svg?logo=GeeksforGeeks&logoColor=green"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/bold_sirena_06" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/rishi_varshney11" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Rishi_Varshney" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/@rishi.varshney100" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/9c50af28-1130-40fc-82f1-68ccbe664964" target="_blank"> <img alt="CodingNinjas" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+-------------------
+
 
 ## 🏗️ **Projects**
 ### 🔹 MedQ: Hospitals at Your Fingertips  
@@ -72,10 +87,10 @@ const Rishi_Varshney = {
 
 ## 🌐 **Connect With Me**
 <p align="left">
-<a href="https://linkedin.com/in/rishi-varshney100"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> <h3>"   "</h3>   
-<a href="https://github.com/Rishivarshney100"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>    <h3>"   "</h3>
-<a href="https://leetcode.com/u/Rishi_varshney/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a> <h3>"   "</h3>    
-<a href="mailto:rishivarshney100@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>    <h3>"   "</h3>
+<a href="https://linkedin.com/in/rishi-varshney100"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>    
+<a href="https://github.com/Rishivarshney100"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>    
+<a href="https://leetcode.com/u/Rishi_varshney/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>     
+<a href="mailto:rishivarshney100@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>    
 </p>
 
 ---
