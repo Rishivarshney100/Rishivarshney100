@@ -30,12 +30,14 @@ const Rishi_Varshney = {
 
 ---
 
-## 🎓 **Education**
-| Qualification | Institute | Affiliated By | Year | GPA/Percentage |
-| :-: | :----: | :--: | :--: | :--: |
-| **B.Tech CSE (AI)** | GL Bajaj Institute of Tech. & Mgmt. | AKTU | 2022-2026 | **9.0 CGPA** |
-| **Senior Secondary** | Delhi Public School | CBSE | 2020-2021 | **94.67%** |
-
+## 🎓 **Education** 
+<!-- START_SECTION:blog -->
+| Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
+| :-: | :---: | :----: | :--: | :--: | :--: |
+| B.Tech CSE-AI | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 9 CGPA |
+| Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | Delhi Public School | CBSE | 2020 - 2021 | 94.6% |
+| High School | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | Delhi Public School | CBSE | 2018 - 2019 | 91.4% |
+<!-- END_SECTION:blog -->
 ---
 
 ## 🏆 **Achievements**
