@@ -307,10 +307,10 @@ const Rishi_Varshney = {
 
 ## 🌐 **Connect With Me**
 <p align="left">
-<a href="https://linkedin.com/in/rishi-varshney100"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>    
-<a href="https://github.com/Rishivarshney100"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>    
-<a href="https://leetcode.com/u/Rishi_varshney/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>     
-<a href="mailto:rishivarshney100@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>    
+<a href="https://linkedin.com/in/rishi-varshney100"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://github.com/Rishivarshney100"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Rishi_varshney/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rishivarshney100@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
