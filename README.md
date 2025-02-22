@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+Rishi+Varshney;AI-ML+Researcher;Software+Developer;Winner @Bharat Shiksha Expo 2024 Hackathon;@rishi.varshney100"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
 
 <h3 align="center"> SDE Intern @BlueStock Fintech | AI-ML Researcher | CSE (AI) Pre-Final Year, Batch of 2022-26 | IEEE Member </h3>
 
