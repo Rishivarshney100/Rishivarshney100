@@ -22,12 +22,10 @@
 ```javascript
 const Rishi_Varshney = {
   pronouns: "He" | "Him",
-  languages: ["Python", "C++", "Java", "JavaScript", "SQL"],
-  frameworks: ["TensorFlow", "PyTorch", "Flask", "React"],
-  domains: ["AI-ML", "IoT", "NLP", "Cloud Computing"],
-  databases: ["MySQL", "MongoDB", "Firebase"],
-  tools: ["Git", "Docker", "Kubernetes", "Linux"],
-  askMeAbout: ["Machine Learning", "IoT", "Research", "Full Stack Development"]
+  languages: ["C", "C++", "Python", "Java", "MySQL", "HTML", "CSS"],
+  frameworks: ["OpenCV", "Scikit-Learn", "Flask", "Firebase"],
+  coreSubjects: ["DBMS", "OS", "OOPS", "TAFL", "DAA", "DSA"],
+  nonTechnicalSkills: ["Communication", "Leadership", "Problem Solving", "Decision Making"]
 }
 ```
 
@@ -36,39 +34,46 @@ const Rishi_Varshney = {
 ## 🎓 **Education**
 | Qualification | Institute | Affiliated By | Year | GPA/Percentage |
 | :-: | :----: | :--: | :--: | :--: |
-| **B.Tech CSE (AI)** | GL Bajaj Institute of Tech. & Mgmt. | AKTU | 2021-2025 | **9.0 CGPA** |
-| **Intermediate** | GRM School, Bareilly | CBSE | 2020-2021 | **96.4%** |
-| **High School** | GRM School, Bareilly | CBSE | 2018-2019 | **95.2%** |
+| **B.Tech CSE (AI)** | GL Bajaj Institute of Tech. & Mgmt. | AKTU | 2022-2026 | **9.0 CGPA** |
+| **Senior Secondary** | Delhi Public School | CBSE | 2020-2021 | **94.67%** |
 
 ---
 
 ## 🏆 **Achievements**
-- 🏅 **Research Paper Co-Author:** *AI & IoT in Fashion Tech* (2024)  
-- 🚀 **Patent Holder:** AI-driven Fashion Personalization (2024)  
-- 🏆 **Hackathon Winner:** Best AI-ML Project (2023)  
-- 📜 **Certified in:** Deep Learning, NLP, Cloud Computing (AWS/GCP)  
+- 🏅 **Apprenticeship:** NVIDIA DGX Servers  
+- 🏆 **Winner:** Bharat Shiksha Expo Hackathon 2024  
+- 🏅 **Finalist:** Thales GenTech Hackathon 2024  
+- 🏆 **Semi-Finalist:** FinXthon 2023 organized by Q2  
+- 📜 **500+ DSA Questions solved on Leetcode**  
+- 🎙 **Organizing Head:** Convergence: National Startup Summit 2024  
+- 📖 **Publication:** Advanced Customer Query Analysis Using Machine Learning  
 
 ---
 
 ## 🏗️ **Projects**
-### 🔹 Fake News Detection using NLP  
-> Implemented ML models (Random Forest, Logistic Regression) to classify news authenticity  
-> Technologies: Python, NLP, Scikit-Learn  
+### 🔹 MedQ: Hospitals at Your Fingertips  
+> Technologies: Flutter, Firebase, Google Maps API, Flask, Python  
+> Real-time bed availability, OPD registration, and predictive inventory alerts reducing patient wait time by 30%.  
 
-### 🔹 AI-Powered Virtual Fashion Assistant  
-> Personalized clothing recommendations using AI & IoT sensors  
-> Technologies: TensorFlow, IoT, Computer Vision  
+### 🔹 Khabar: Fake News Detector  
+> Technologies: Python, Flask, SkLearn, Pandas, HTML, CSS  
+> Uses ML models (Logistic Regression, Decision Tree, Gradient Boosting) achieving 99.64% accuracy.  
 
-### 🔹 Smart Healthcare IoT System  
-> Monitored patient vitals using IoT sensors & ML-based analytics  
-> Technologies: Raspberry Pi, AWS IoT, Python  
+### 🔹 ScrapX: E-commerce Web Scraper  
+> Technologies: Python, Flask, Selenium, HTML, CSS  
+> Scrapes product info from 20+ E-Commerce sites for market analysis, price comparison.  
+
+### 🔹 Face Authentication Security System  
+> Technologies: HTML, CSS, Firebase, Python, OpenCV, Flask  
+> Secure banking authentication reducing OTP frauds.  
 
 ---
 
 ## 🌐 **Connect With Me**
 <p align="left">
 <a href="https://linkedin.com/in/rishi-varshney100"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>  
-<a href="https://github.com/RishiVarshney100"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>  
+<a href="https://github.com/Rishivarshney100"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>  
+<a href="https://leetcode.com/u/Rishi_varshney/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>  
 <a href="mailto:rishivarshney100@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>  
 </p>
 
