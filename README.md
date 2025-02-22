@@ -314,7 +314,8 @@ const Rishi_Varshney = {
 <a href="mailto:rishivarshney100@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
----## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+---
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Rishivarshney100&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rishi" />
