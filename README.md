@@ -1,6 +1,3 @@
-![logo](https://imgs.search.brave.com/XMdhnVQ8ZUMr9G0AJYpzaumY-KMKVVrJUAmu3P9toNg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzAzLzIzLzU1/LzM2MF9GXzQwMzIz/NTUxM195dkcweW84/d1lDQk5Ua2RMWWk2/SE8wTUxWaU5oN0tF/di5qcGc)
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Rishi;Software+Developer;Frontend+Developer;Team+Leader"></p>
 
