@@ -1,28 +1,40 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Rishi;Software+Developer;Frontend+Developer;Team+Leader"></p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=650&height=60&lines=I'm+Rishi+Varshney;SDE+Intern+@+Autodesk;AI-ML+Engineer+%7C+Full+Stack+Developer;Cyber+Security+Minor+%7C+Researcher;Innovator+%7C+Problem+Solver" />
+</p>
 
-<h3 align="center"> SDE Intern @BlueStock Fintech | AI-ML Researcher | CSE (AI) Pre-Final Year, Batch of 2022-26 | IEEE Member </h3>
+<h3 align="center">
+  SDE Intern @ Autodesk India | AI-ML Researcher | CSE (AI) Final Year | IEEE Member
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/RishiVarshney100/RishiVarshney100/assets/coding.gif">
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/RishiVarshney100/RishiVarshney100/main/assets/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiVarshney100&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-varshney" width="150"/> </p>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=RishiVarshney100&label=Profile%20views&color=0e75b6&style=flat" width="150"/>
+</p>
 
-- 🔭 **Currently working on:** AI-ML applications in Fashion Tech & NLP-based Fake News Detection  
-- 🏆 **Co-Author:** "Transforming Fashion: The Fusion of IoT, AI, and Creativity" (Published 2024)  
-- 🌱 **Learning:** Deep Learning, IoT, Cloud Computing (AWS/GCP), Generative AI  
-- 📫 **Reach me at:** rishivarshney100@gmail.com  
-- ⚡ **Fun fact:** AI is my passion, but I still believe in the human touch! 🤖❤️  
+# 👨‍💻 **About Me**
+
+- 🔭 **Currently working on:** AI-powered systems, NLP, ML Ops, Large-scale backend systems  
+- 💼 **SDE Intern @ Autodesk** — Worked on Fusion 360 ecosystem tools, QuickSilver initiatives, and large-scale data migrations (500k+ hubs) 
+- 🧠 **Research:** AI in Fashion Tech, NLP-driven Fake News Detection  
+- 🛡 **Minor:** Cyber Security  
+- ✍️ **Co-Author:** *Transforming Fashion: The Fusion of IoT, AI, and Creativity*  
+- 🌱 **Learning:** Deep Learning, Cloud (AWS/GCP), GenAI, LLMs  
+- 📫 **Email:** rishivarshney100@gmail.com  
+- ⚡ **Fun fact:** I love building AI systems that help humans, not replace them 🤖❤️  
 
 ---
 
 ## 💻 **Technical Skills**
+
 ```javascript
 const Rishi_Varshney = {
   Pronouns: "He" | "Him",
   Languages: ["C", "C++", "Python", "Java", "MySQL", "HTML", "CSS"],
   Frameworks: ["OpenCV", "Scikit-Learn", "Flask", "Firebase"],
   CoreSubjects: ["DBMS", "OS", "OOPS", "TAFL", "DAA", "DSA"],
-  NonTechnicalSkills: ["Communication", "Leadership", "Problem Solving", "Decision Making"]
+  Tools: ["Git", "Github", "Postman", "SonarQube", "Splunk", "Dynatrace", "Bruno"],
+  NonTechnicalSkills: ["Quick Learner", "Communication", "Leadership", "Problem Solving", "Decision Making"]
 }
 ```
 
@@ -32,20 +44,22 @@ const Rishi_Varshney = {
 <!-- START_SECTION:blog -->
 | Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE-AI | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 9 CGPA |
+| B.Tech CSE-AI | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 9.02 CGPA |
 | Intermediate | <img src="https://resources.edunexttechnologies.com/web-data/dps-expressway/img/school-wing-hover-img.png" width="60" height="30"> | Delhi Public School | CBSE | 2020 - 2021 | 94.6% |
 | High School | <img src="https://resources.edunexttechnologies.com/web-data/dps-expressway/img/school-wing-hover-img.png" width="60" height="30"> | Delhi Public School | CBSE | 2018 - 2019 | 91.4% |
 <!-- END_SECTION:blog -->
 ---
 
 ## 🏆 **Achievements**
-- 🏅 **Apprenticeship:** NVIDIA DGX Servers  
-- 🏆 **Winner:** Bharat Shiksha Expo Hackathon 2024  
-- 🏅 **Finalist:** Thales GenTech Hackathon 2024  
-- 🏆 **Semi-Finalist:** FinXthon 2023 organized by Q2  
-- 📜 **550+ DSA Questions solved on Leetcode with 1392+ Rating**  
-- 🎙 **Organizing Head:** Convergence: National Startup Summit 2024  
-- 📖 **Publication:** Advanced Customer Query Analysis Using Machine Learning  
+- 🏅 **2× Winner:** Bharat Shiksha Expo Hackathon (2024, 2025)  
+- 🥇 **Top 5 India – Samsung Solve for Tomorrow 2025 (AI Track)**  
+- 🏅 **5th Position:** SuperNova National Hackathon 2025  
+- 📘 **A+** — National Competence & Employability Test (NCET)  
+- 💻 **800+ DSA Problems** solved on LeetCode  
+- 🎙 **Organizing Head:** Convergence – National Startup Summit 2024  
+- 📄 **Research Publication:** Advanced Customer Query Analysis using ML
+- 🏅 **Apprenticeship:** NVIDIA DGX Servers    
+- 🏆 **Semi-Finalist:** FinXthon 2023 organized by Q2
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
@@ -64,21 +78,38 @@ const Rishi_Varshney = {
 
 
 ## 🏗️ **Projects**
+### 🔹 **Query Wizard: Database Made Easy** (Jan 2025 – Mar 2025)  
+**Tech Stack:** MySQL, Streamlit, Python, Gemini  
+- AI-powered NL-to-SQL system supporting **50+ databases** with **1TB+ table sizes**  
+- Voice & text interfaces with **200ms latency**  
+- Real-time auditing using time-stamped vector embeddings  
+
+### 🔹 **Clarity Code: AI-Powered Code Obfuscator** (Aug 2024 – Nov 2024)  
+**Tech Stack:** React, Next.js, TypeScript, Gemini  
+- Built an AST-based NLP pipeline that reduces reverse engineering by **60%**  
+- Generates secure obfuscated code while preserving functionality  
+
+### 🔹 **Rakshak: Women Safety App** (Nov 2024 – Jan 2025)  
+**Tech Stack:** Python, Flutter, Firebase, Twilio  
+- AI voice & fall detection  
+- Instant SOS alerts with location, video recording & timed checkups  
+- Reduced threat escalation by **30%**  
+
 ### 🔹 MedQ: Hospitals at Your Fingertips  
-> Technologies: Flutter, Firebase, Google Maps API, Flask, Python  
-> Real-time bed availability, OPD registration, and predictive inventory alerts reducing patient wait time by 30%.  
+- Technologies: Flutter, Firebase, Google Maps API, Flask, Python  
+- Real-time bed availability, OPD registration, and predictive inventory alerts reducing patient wait time by 30%.  
 
 ### 🔹 Khabar: Fake News Detector  
-> Technologies: Python, Flask, SkLearn, Pandas, HTML, CSS  
-> Uses ML models (Logistic Regression, Decision Tree, Gradient Boosting) achieving 99.64% accuracy.  
+- Technologies: Python, Flask, SkLearn, Pandas, HTML, CSS  
+- Uses ML models (Logistic Regression, Decision Tree, Gradient Boosting) achieving 99.64% accuracy.  
 
 ### 🔹 ScrapX: E-commerce Web Scraper  
-> Technologies: Python, Flask, Selenium, HTML, CSS  
-> Scrapes product info from 20+ E-Commerce sites for market analysis, price comparison.  
+- Technologies: Python, Flask, Selenium, HTML, CSS  
+- Scrapes product info from 20+ E-Commerce sites for market analysis, price comparison.  
 
 ### 🔹 Face Authentication Security System  
-> Technologies: HTML, CSS, Firebase, Python, OpenCV, Flask  
-> Secure banking authentication reducing OTP frauds.  
+- Technologies: HTML, CSS, Firebase, Python, OpenCV, Flask  
+- Secure banking authentication reducing OTP frauds.  
 
 ---
 
